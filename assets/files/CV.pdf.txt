@@ -1,0 +1,1 @@
+This repository contains your academic website. Replace this file with your CV in PDF form and name it `CV.pdf`.
