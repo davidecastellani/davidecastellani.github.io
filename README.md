@@ -22,10 +22,4 @@ Preview locally (optional)
 
 If you don't want to install Ruby, you can edit files directly on GitHub and view changes when Pages rebuilds.
 
-Next steps I can do for you
-
-- Render publications from `publications.bib` into HTML
-- Add Google Scholar/ORCID badges
-- Add an automatic CV page generated from a PDF or markdown
-- Install a pre-made theme (Minimal Mistakes / AcademicPages)
 
