@@ -25,9 +25,3 @@ Edit the HTML directly; no installation or build command is needed. Update style
 
 The CV and two available papers retain their original Google Drive links; replacing those files in Drive without changing the links will keep the website links current. No paper links have been invented for work in progress.
 
-## Content notes
-Content comes from https://davidecastellani.weebly.com/ and https://davidecastellani.weebly.com/research.html, retrieved September 7, 2026. Layout inspiration: https://chrisfalbert.github.io/.
-
-The biography, affiliations, project categories, research claims, coauthors, and full abstracts have been retained, with minor typographic and grammatical fixes. The gasoline abstract retains the source's ambiguous phrase "located in relatively high-priced stations"; review this wording before publication. The wind turbine abstract's comparison between tourism losses and CO2 savings is also preserved as supplied.
-
-This is a local website package; it has not been published to GitHub.
