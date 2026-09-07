@@ -8,14 +8,21 @@
   <meta name="theme-color" content="#183c50">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
+  <link rel="canonical" href="https://davidecastellani.github.io/">
+  <script>
+    // Normalize the live homepage URL while preserving query parameters and anchors.
+    if (location.protocol === "https:" && location.hostname === "davidecastellani.github.io" && location.pathname === "/index.html") {
+      history.replaceState(null, "", "/" + location.search + location.hash);
+    }
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="site-name" href="index.html">Davide Castellani<span>Economics</span></a>
+      <a class="site-name" href="/">Davide Castellani<span>Economics</span></a>
       <nav aria-label="Main navigation">
-        <a href="index.html" aria-current="page">Home</a>
+        <a href="/" aria-current="page">Home</a>
         <a href="research.html">Research</a>
         <a href="https://drive.google.com/file/d/1mSijH14YXen_6fSEXUMGYZDPx6r-vv5j/view?usp=sharing">CV <span aria-hidden="true">↗</span></a>
       </nav>
