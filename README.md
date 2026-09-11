@@ -14,7 +14,20 @@ A responsive, dependency-free website for GitHub Pages. Open index.html in a bro
 1. Create a public GitHub repository named YOUR-USERNAME.github.io, replacing YOUR-USERNAME with your actual GitHub username.
 2. Upload the contents of this folder to the repository root, keeping the assets folder intact. Ensure index.html is at the root.
 3. In the repository, open Settings > Pages. Under Build and deployment choose Deploy from a branch, select main and / (root), then Save.
-4. Your website will appear at https://davidecastellani.github.io/ after deployment.
+4. Your website will appear at https://YOUR-USERNAME.github.io/ after deployment.
 
+You can also publish to an ordinary project repository. All local links use relative paths, so the website also works at https://YOUR-USERNAME.github.io/REPOSITORY-NAME/.
 
+Official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
+## Edit
+Edit the HTML directly; no installation or build command is needed. Update styles.css to change the design. The color variables are at the beginning of that file. Keep the navigation and footer consistent in both HTML pages.
+
+The CV and two available papers retain their original Google Drive links; replacing those files in Drive without changing the links will keep the website links current. No paper links have been invented for work in progress.
+
+## Content notes
+Content comes from https://davidecastellani.weebly.com/ and https://davidecastellani.weebly.com/research.html, retrieved September 7, 2026. Layout inspiration: https://chrisfalbert.github.io/.
+
+The biography, affiliations, project categories, research claims, coauthors, and full abstracts have been retained, with minor typographic and grammatical fixes. The gasoline abstract retains the source's ambiguous phrase "located in relatively high-priced stations"; review this wording before publication. The wind turbine abstract's comparison between tourism losses and CO2 savings is also preserved as supplied.
+
+This is a local website package; it has not been published to GitHub.
